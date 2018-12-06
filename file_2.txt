@@ -1,4 +1,4 @@
 integer,parameter :: NER=DP
 integer,parameter :: NEC=DPC
 #changes to be made here when playing with different precisions
-#nneft dialect for types
+#nneft dialect for pick
