@@ -1,6 +1,10 @@
 end module nneft_type
-implicit none
+hjjjjfghkj
 #complex(DPC),parameter :: IMGUNT_DP
+
+
+hgyifuiioo
+
 #integer,parameter :: DPC 
 
 juytilrljghkfrt
