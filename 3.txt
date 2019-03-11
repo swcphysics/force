@@ -1,0 +1,8 @@
+end module nneft_type
+implicit none
+#complex(DPC),parameter :: IMGUNT_DP
+#integer,parameter :: DPC 
+integer,parameter :: NER=DP
+integer,parameter :: NEC=DPC
+#changes to be made here when playing with different precisions
+#nneft dialect for types
