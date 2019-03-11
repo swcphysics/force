@@ -1,7 +1,5 @@
 end module nneft_type
-
    jksdjopipkjdsjfskjf
-
 #complex(DPC),parameter :: IMGUNT_DP
 #integer,parameter :: DPC
 integer,parameter :: NER=DPC
