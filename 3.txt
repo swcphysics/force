@@ -1,6 +1,6 @@
 end module nneft_type
    jksdjopipkjdsjfskjf
-#complex(DPC),paramtter :: IMGUNT_DP
+#complex(DPC),yrhf :: IMGUNT_DP
 #integer,parameter :: DPC
 integer,parameter :: NER=DPC
 integer,parameter :: NEC=DPC
